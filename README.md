@@ -3,7 +3,7 @@
 ## Setup
 clone the project using 
 ```bash
-git clone https://github.com/surajjbhardwaj/HoldInfo.git
+
 ```
 
 install the dependencies
